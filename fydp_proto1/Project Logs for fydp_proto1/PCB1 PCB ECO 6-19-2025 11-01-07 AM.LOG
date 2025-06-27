@@ -1,0 +1,31 @@
+Change Net Name : Old Net Name=I+ New Net Name=I_P
+Change Net Name : Old Net Name=I- New Net Name=I_N
+Change Net Name : Old Net Name=NetB2_3 New Net Name=res_out_P
+Change Net Name : Old Net Name=NetB2_4 New Net Name=res_out_N
+Change Net Name : Old Net Name=NetC24_1 New Net Name=rfoutA_P
+Change Net Name : Old Net Name=NetC25_1 New Net Name=rfoutA_N
+Change Net Name : Old Net Name=NetC26_1 New Net Name=rfoutB_P
+Change Net Name : Old Net Name=NetC26_2 New Net Name=rf_ref_P
+Change Net Name : Old Net Name=NetC27_1 New Net Name=rfoutB_N
+Change Net Name : Old Net Name=NetC27_2 New Net Name=rf_ref_N
+Change Net Name : Old Net Name=NetL2_1 New Net Name=I_O_P
+Change Net Name : Old Net Name=NetL3_1 New Net Name=Q_O_P
+Change Net Name : Old Net Name=NetL4_1 New Net Name=I_O_N
+Change Net Name : Old Net Name=NetL5_1 New Net Name=Q_O_N
+Change Net Name : Old Net Name=NetR4_1 New Net Name=USB_P
+Change Net Name : Old Net Name=NetR5_1 New Net Name=USB_N
+Change Net Name : Old Net Name=Q+ New Net Name=Q_P
+Change Net Name : Old Net Name=Q- New Net Name=Q_N
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Differential Pair: Name=I_O
+Added Differential Pair: Name=I
+Added Differential Pair: Name=Q_O
+Added Differential Pair: Name=Q
+Added Differential Pair: Name=res_out
+Added Differential Pair: Name=rf_ref
+Added Differential Pair: Name=rfoutA
+Added Differential Pair: Name=rfoutB
+Added Differential Pair: Name=USB

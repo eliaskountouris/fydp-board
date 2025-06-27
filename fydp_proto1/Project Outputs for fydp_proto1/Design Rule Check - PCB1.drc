@@ -1,0 +1,103 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\elias\Desktop\fydp\fydp_proto1\PCB1.PcbDoc
+Date     : 6/23/2025
+Time     : 9:04:33 AM
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+   Violation between Clearance Constraint: (Collision < 4mil) Between Area Fill (2759.873mil,4936.567mil) (3015.779mil,4956.252mil) on Bottom Layer And Pad ANT*1-2(2986.252mil,4946.409mil) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Area Fill (2759.873mil,4936.567mil) (3015.779mil,4956.252mil) on Bottom Layer And Track (2986.252mil,4946.409mil)(3005.591mil,4946.409mil) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Area Fill (2759.873mil,4936.567mil) (3015.779mil,4956.252mil) on Bottom Layer And Track (3005.591mil,4946.409mil)(3161mil,4791mil) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-A1_B12(5709.197mil,3844.866mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-A4_B9(5709.197mil,3876.362mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-A5(5709.197mil,3921.638mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-A6(5709.197mil,3961.008mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-A7(5709.197mil,3980.693mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-B1_A12(5709.197mil,4096.835mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-B4_A9(5709.197mil,4065.339mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-B5(5709.197mil,4039.748mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-B6(5709.197mil,4000.378mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-B7(5709.197mil,3941.323mil) on Top Layer 
+Rule Violations :13
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Area Fill (2759.873mil,4936.567mil) (3015.779mil,4956.252mil) on Bottom Layer And Pad ANT*1-2(2986.252mil,4946.409mil) on Bottom Layer Location : [X = 2986.015mil][Y = 4946.409mil]
+   Violation between Short-Circuit Constraint: Between Area Fill (2759.873mil,4936.567mil) (3015.779mil,4956.252mil) on Bottom Layer And Track (2986.252mil,4946.409mil)(3005.591mil,4946.409mil) on Bottom Layer Location : [X = 2995.921mil][Y = 4946.409mil]
+   Violation between Short-Circuit Constraint: Between Area Fill (2759.873mil,4936.567mil) (3015.779mil,4956.252mil) on Bottom Layer And Track (3005.591mil,4946.409mil)(3161mil,4791mil) on Bottom Layer Location : [X = 3008.136mil][Y = 4944.037mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-A1_B12(5709.197mil,3844.866mil) on Top Layer Location : [X = 0mil][Y = 0mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-A4_B9(5709.197mil,3876.362mil) on Top Layer Location : [X = 0mil][Y = 0mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-A5(5709.197mil,3921.638mil) on Top Layer Location : [X = 0mil][Y = 0mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-A6(5709.197mil,3961.008mil) on Top Layer Location : [X = 0mil][Y = 0mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-A7(5709.197mil,3980.693mil) on Top Layer Location : [X = 0mil][Y = 0mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-B1_A12(5709.197mil,4096.835mil) on Top Layer Location : [X = 0mil][Y = 0mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-B4_A9(5709.197mil,4065.339mil) on Top Layer Location : [X = 0mil][Y = 0mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-B5(5709.197mil,4039.748mil) on Top Layer Location : [X = 0mil][Y = 0mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-B6(5709.197mil,4000.378mil) on Top Layer Location : [X = 0mil][Y = 0mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad J1-B7(5709.197mil,3941.323mil) on Top Layer Location : [X = 0mil][Y = 0mil]
+Rule Violations :13
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Isolated copper: Split Plane  (+3V3) on VDD. Dead copper detected. Copper area is : 199.165 sq. mils
+   Violation between Isolated copper: Split Plane  (+3V3) on VDD. Dead copper detected. Copper area is : 199.165 sq. mils
+   Violation between Isolated copper: Split Plane  (+3V3) on VDD. Dead copper detected. Copper area is : 199.165 sq. mils
+   Violation between Isolated copper: Split Plane  (+3V3) on VDD. Dead copper detected. Copper area is : 199.165 sq. mils
+   Violation between Isolated copper: Split Plane  (+3V3) on VDD. Dead copper detected. Copper area is : 199.165 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 1.808 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 1.808 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 1.808 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 1.808 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 391.813 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 103.958 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 103.958 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 103.958 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 103.958 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 103.958 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 160.387 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 160.387 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 160.388 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 160.388 sq. mils
+Rule Violations :19
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+   Violation between Starved Thermal on GND: Via (3393.244mil,4129.788mil) from Top Layer to Bottom Layer. Only 43% copper is connected to the hole.
+   Violation between Starved Thermal on GND: Via (3393.244mil,4169.158mil) from Top Layer to Bottom Layer. Only 43% copper is connected to the hole.
+   Violation between Starved Thermal on GND: Via (3412.929mil,4149.472mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (3432.614mil,4129.788mil) from Top Layer to Bottom Layer. Only 43% copper is connected to the hole.
+   Violation between Starved Thermal on GND: Via (3432.614mil,4169.158mil) from Top Layer to Bottom Layer. Only 43% copper is connected to the hole.
+   Violation between Starved Thermal on GND: Via (3809.693mil,3666mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (3853mil,3622.693mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (3853mil,3666mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (3853mil,3709.307mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (3896.307mil,3666mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+Rule Violations :10
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=6mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 55
+Waived Violations : 0
+Time Elapsed        : 00:00:00

@@ -1,0 +1,8 @@
+Replace Part ANT*1 nfc_antenna in C:\Users\elias\Desktop\fydp\fydp_proto1\nfc.SchDoc with nfc_antenna from fydp.IntLib
+Update Managed Component C43 From CMP-2008-03803-2[GJM1555C1H150GB01D] To CMP-2008-03803-2[GJM1555C1H150GB01D] in nfc.SchDoc
+Update Managed Component C44 From CMP-2000-06094-2[CL10B105KP8NNNC] To CMP-2000-06094-2[CL10B105KP8NNNC] in nfc.SchDoc
+Update Managed Component C45 From CMP-2008-04303-1[GRM1555C1H220JA01J] To CMP-2008-04303-1[GRM1555C1H220JA01J] in nfc.SchDoc
+Update Managed Component C46 From CMP-2000-05002-2[CC0603KRX7R7BB104] To CMP-2000-05002-2[CC0603KRX7R7BB104] in nfc.SchDoc
+Update Managed Component R21 From CMP-2000-06942-1[RC0603FR-074K7L] To CMP-2000-06942-1[RC0603FR-074K7L] in nfc.SchDoc
+Replace Part TP11 Test Point in C:\Users\elias\Desktop\fydp\fydp_proto1\nfc.SchDoc with Test Point from fydp.IntLib
+Replace Part U11 ST25DV64KC-JF6D3 in C:\Users\elias\Desktop\fydp\fydp_proto1\nfc.SchDoc with ST25DV64KC-JF6D3 from fydp.IntLib

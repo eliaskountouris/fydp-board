@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=rf_ref_P Pin=U9-9
+Removed Pin From Net: NetName=rf_ref_N Pin=U9-10
+Added Pin To Net: NetName=rf_ref_N Pin=U9-9
+Added Pin To Net: NetName=rf_ref_P Pin=U9-10
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

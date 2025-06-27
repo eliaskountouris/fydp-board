@@ -1,0 +1,28 @@
+Added Component: Designator=TP1(test_point)
+Added Component: Designator=TP3(test_point)
+Added Component: Designator=TP4(test_point)
+Added Component: Designator=TP5(test_point)
+Added Component: Designator=TP6(test_point)
+Added Component: Designator=TP7(test_point)
+Added Component: Designator=TP8(test_point)
+Added Component: Designator=TP9(test_point)
+Added Component: Designator=TP11(test_point)
+Added Component: Designator=TP12(test_point)
+Added Component: Designator=TP13(test_point)
+Added Pin To Net: NetName=SCL Pin=TP1-1
+Added Pin To Net: NetName=SDA Pin=TP3-1
+Added Pin To Net: NetName=power_in Pin=TP4-1
+Added Pin To Net: NetName=NetC18_1 Pin=TP5-1
+Added Pin To Net: NetName=+5 Pin=TP6-1
+Added Pin To Net: NetName=+3V3 Pin=TP7-1
+Added Pin To Net: NetName=+3V3A Pin=TP8-1
+Added Pin To Net: NetName=GND Pin=TP9-1
+Added Pin To Net: NetName=GND Pin=TP11-1
+Added Pin To Net: NetName=GND Pin=TP12-1
+Added Pin To Net: NetName=GND Pin=TP13-1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component TP11 Test Point

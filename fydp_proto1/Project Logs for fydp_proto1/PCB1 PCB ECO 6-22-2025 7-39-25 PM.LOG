@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=J2 Old Footprint=FP-SMA-J-P-H-ST-EM1-MFG New Footprint=FP-RF2-04A-T-00-50-G-MFG
+Change Component Footprint: Designator=J3 Old Footprint=FP-SMA-J-P-H-ST-EM1-MFG New Footprint=FP-RF2-04A-T-00-50-G-MFG
+Change Component Comment : Designator=J2 Old Comment=SMA-J-P-H-ST-EM1 New Comment=RF2-04A-T-00-50-G
+Change Component Comment : Designator=J3 Old Comment=SMA-J-P-H-ST-EM1 New Comment=RF2-04A-T-00-50-G
+Change Managed Component Library Link : Designator=J2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=DFE65A0C-2B34-44E1-B0E0-7911B18F6473 New ItemGUID=7ADB199D-99A6-42EB-8501-17B549C7D861 Old RevisionGUID=AAF488E0-8D0E-437B-BE1D-597F17D5B88E New RevisionGUID=C10BBE37-04AC-4B3F-B714-C4C6C1DE3786
+Change Managed Component Library Link : Designator=J3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=DFE65A0C-2B34-44E1-B0E0-7911B18F6473 New ItemGUID=7ADB199D-99A6-42EB-8501-17B549C7D861 Old RevisionGUID=AAF488E0-8D0E-437B-BE1D-597F17D5B88E New RevisionGUID=C10BBE37-04AC-4B3F-B714-C4C6C1DE3786
+Change component parameters: Designator = "J2" ("J2"); Footprint = "FP-SMA-J-P-H-ST-EM1-MFG"; UniqueID = "\XCETVDKM" ("\XCETVDKM")
+Change component parameters: Designator = "J3" ("J3"); Footprint = "FP-SMA-J-P-H-ST-EM1-MFG"; UniqueID = "\PQQORJCT" ("\PQQORJCT")
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
